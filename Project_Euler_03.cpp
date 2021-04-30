@@ -7,7 +7,7 @@ typedef long long int ll;
 #define vc vector<char>         //for vector bool
 using namespace std;
 
-void set_prime(int r , vc &is_prime)  //utility fuction to store all primes till root of n
+void set_prime(int r , vc &is_prime)  //utility function to store all primes till root of n
 {
 
   is_prime[0]=is_prime[1]=false;
